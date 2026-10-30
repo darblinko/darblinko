@@ -22,7 +22,7 @@ Nysara Global LLC projects: [cypher-guard](https://github.com/Nysara-Global-LLC/
 
 ## Method
 
-Every project applies the same five rules to its LLM components:
+The projects aim to apply five practices to their LLM components:
 
 1. Models are measured before they are selected.
 2. Outputs carry provenance or an audit record.
@@ -30,4 +30,6 @@ Every project applies the same five rules to its LLM components:
 4. Agents are checked by other agents or by sandboxes.
 5. Negative results are recorded.
 
-The [site](https://darblinko.github.io/#method) lists the evidence for each rule by project.
+Practice 1 is not met yet. golden-goose and industrial-monitor run their evaluation harnesses on deterministic model fakes, and no model comparison is published. Each project README states its own limitations.
+
+The [site](https://darblinko.github.io/#public-work) links each project and its write-ups.
