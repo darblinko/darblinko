@@ -12,7 +12,7 @@ Site and write-ups: https://darblinko.github.io/
 |---|---|---|
 | [golden-goose](https://github.com/darblinko/golden-goose) | Regulated quality | Agentic RAG for medical device audit support, with evaluation gates and an audit log |
 | [agent-controls](https://github.com/darblinko/agent-controls) | Agent engineering | Codex sandbox, cross-agent review gate, per-profile Claude Code configuration |
-| [llm-trading-lab](https://github.com/darblinko/llm-trading-lab) | Trading research | LLM trading agents, walk-forward validation, leakage audits and recorded negative results |
+| [llm-trading-lab](https://github.com/darblinko/llm-trading-lab) | Trading research | Controls, research tooling and session-review apps for LLM trading agents: LLM call gating, walk-forward validation, leakage audits and recorded negative results. The agent pipeline, live prompts and execution code are not included. |
 | [obd-scanner](https://github.com/darblinko/obd-scanner) | Industrial IoT | An agent that reads vehicle diagnostics over KWP2000 and UDS behind a guard hook |
 | [industrial-monitor](https://github.com/darblinko/industrial-monitor) | Industrial IoT | Simulated vibration sensors over MQTT, FFT and envelope anomaly detection, and a maintenance assistant that cites a synthetic manual corpus |
 | [claude-skills](https://github.com/darblinko/claude-skills) | Agent engineering | Claude Code skills for PDF export, EC2 training runs and look-ahead bias audits |
