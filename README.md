@@ -18,8 +18,6 @@ Site and write-ups: https://darblinko.github.io/
 | [claude-skills](https://github.com/darblinko/claude-skills) | Agent engineering | Claude Code skills for PDF export, EC2 training runs and look-ahead bias audits |
 | [pbi-portfolio](https://github.com/darblinko/powerbi-dashboards) | Regulated quality | Four dashboards that reproduce Power BI report features in vanilla JavaScript, on seeded fictional data |
 
-Nysara Global LLC projects: [cypher-guard](https://github.com/Nysara-Global-LLC/cypher-guard) and [cb_explorer](https://github.com/Nysara-Global-LLC/cb_explorer).
-
 ## Method
 
 The projects aim to apply five practices to their LLM components:
